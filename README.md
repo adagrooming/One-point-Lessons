@@ -8,14 +8,14 @@ Proposed next owners - flexible if you have something to share, swap/advance
 
 
 
-- [x]28. Dominika,
+- ✅  28. Dominika,
 
-- [x]29. Jarek,
+- ✅  29. Jarek,
 
-- [ ]30. Malgorzata,
+-  ☐ 30. Malgorzata,
 
-- [ ]31. Matheus,
+-  ☐ 31. Matheus,
 
-- [ ]32. Zarina,
+-  ☐ 32. Zarina,
 
-- [ ]33. Zhozef
+-  ☐ 33. Zhozef
