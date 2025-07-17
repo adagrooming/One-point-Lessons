@@ -6,6 +6,9 @@ Any topic that could help personally or work wise.
 
 Proposed next owners - flexible if you have something to share, swap/advance
 
+# Spis treści
+- [Resolving Data Issues in Power BI with DROP TABLE] (#Resolving Data Issues in Power BI with DROP TABLE)
+
 
 
 - ✅  28. Dominika,
