@@ -6,11 +6,6 @@ Any topic that could help personally or work wise.
 
 Proposed next owners - flexible if you have something to share, swap/advance
 
-# Spis treści
-- [Resolving Data Issues in Power BI with DROP TABLE] (#Resolving Data Issues in Power BI with DROP TABLE)
-
-
-
 - ✅  28. Dominika,
 
 - ✅  29. Jarek,
@@ -22,6 +17,14 @@ Proposed next owners - flexible if you have something to share, swap/advance
 -  ☐ 32. Zarina,
 
 -  ☐ 33. Zhozef
+
+  
+
+# Spis treści
+- [Resolving Data Issues in Power BI with DROP TABLE](#resolving-data-issues-in-power-bi-with-drop-table)
+- [Gosia Subject](#gosia-subject)
+
+
 
 ---------------------------------------------------------------------------------------
 ## *Resolving Data Issues in Power BI with DROP TABLE*
@@ -80,3 +83,5 @@ o Execute DROP TABLE IF EXISTS Sales_Data; followed by recreating the table. Thi
 In cases of data integrity issues in Power BI—despite correct data in Databricks—utilizing DROP TABLE followed by the table's recreation is an effective strategy to eliminate problems related to metadata, data types, and caching.
 
 --------------------------------------------------------------------------------------
+
+## **Gosia Subject**
