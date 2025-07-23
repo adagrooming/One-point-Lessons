@@ -22,7 +22,7 @@ Proposed next owners - flexible if you have something to share, swap/advance
 
 # Spis treści
 - [Resolving Data Issues in Power BI with DROP TABLE](#resolving-data-issues-in-power-bi-with-drop-table)
-- [Gosia Subject](#gosia-subject)
+- [Understanding the README and Adding Content to Our GitHub Repository](#understanding-the-readme-and-adding-content-to-our-github-repository)
 
 
 
