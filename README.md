@@ -84,4 +84,46 @@ In cases of data integrity issues in Power BI—despite correct data in Databric
 
 --------------------------------------------------------------------------------------
 
-## **Gosia Subject**
+## **Understanding the README and Adding Content to Our GitHub Repository**
+
+### *What is a README File?*
+   
+The README file is the first thing users see in a GitHub repository.
+
+It provides essential information about the project:
+- Project Title: Name of the project.
+- Description: Brief overview.
+- Installation Instructions: Guide for setup.
+- Usage: How to use the project.
+- Contributing: Guidelines for contributions.
+- License: Licensing information.
+  
+### *Viewing and Editing the README*
+
+1. View: Go to the repository; the README displays on the main page.
+2. Edit:
+  - Click the README file, then the pencil icon (✏️).
+  - Make your changes and scroll to "Commit changes."
+  - Write a brief description and commit.
+
+### *Adding Files to the Repository*
+
+1. Navigate: Go to the repository’s main page.
+2. Add File:
+  - Click "Add file" and choose "Upload files" or "Create new file."
+  - For uploads, drag files or select from your computer.
+  - For new files, enter the file name and content.
+3. Commit: Write a description and commit your changes.
+
+### *Markdown Basics*
+
+- Headings: Use # for titles, ## for subtitles.
+- Bold: **text** or __text__
+- Italic: *text* or _text_
+- Lists:
+  - Unordered: - Item or * Item
+  - Ordered: 1. Item
+- Links: [Link text](URL)
+- Images: ![Alt text](image URL)
+
+---------------------------------------------------------------------------------------------------------------------
