@@ -10,7 +10,7 @@ Proposed next owners - flexible if you have something to share, swap/advance
 
 - ✅  29. Jarek,
 
--  ☐ 30. Malgorzata,
+- ✅ 30. Malgorzata,
 
 -  ☐ 31. Matheus,
 
@@ -20,7 +20,7 @@ Proposed next owners - flexible if you have something to share, swap/advance
 
   
 
-# Spis treści
+# table of Content
 - [Resolving Data Issues in Power BI with DROP TABLE](#resolving-data-issues-in-power-bi-with-drop-table)
 - [Understanding the README and Adding Content to Our GitHub Repository](#understanding-the-readme-and-adding-content-to-our-github-repository)
 
